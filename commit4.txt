@@ -1,2 +1,3 @@
 heeeeeeeeeeeeeeeeeeeeee
 hhhhhhhhhhhhhiiiiiiiiiiiiiiiiii
+reset --soft to edit commit 4 and still keep add commit 5 :D
