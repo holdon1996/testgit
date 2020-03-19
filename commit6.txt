@@ -1,0 +1,2 @@
+commit 6
+edit by reset --mixed
